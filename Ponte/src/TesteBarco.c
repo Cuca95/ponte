@@ -30,6 +30,9 @@ int main()
 			break;
 		}
 
+		j++;
+		j--;
+
 		if(j==4){
 			tab[0][4]='S';
 			tab[4][4]='S';
